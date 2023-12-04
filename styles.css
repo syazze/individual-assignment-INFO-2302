@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+    background: url('duit.jpg') no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color:powderblue;
+}
+
+header img {
+    max-width: 150px;
+}
+
+.tagline {
+    font-style: italic;
+    
+    
+}
+
+.quranic-verse {
+    font-weight: bold;
+  
+}
+
+section {
+    padding: 10px;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+input, button {
+    margin: 10px 0;
+}
+
+#contact-info {
+    padding: 10px;
+    font-size: 14px;
+   text-align: center;
+}
+
+#contact-info p {
+    margin: 5px 0;
+}
+
+.small-contact-info {
+    font-size: 100px; 
+    padding: 2px; 
+
+}
+
+.small-contact-info p {
+    margin: 1px 0; 
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-top: 20px;
+  }
+  
+  .logo ,
+  
+  .picture {
+    width: 130px; 
+  height: auto; 
+}
+.logo {
+    margin-left: 10px; 
+}
+
+.picture {
+    margin-left: 10px; 
+}
